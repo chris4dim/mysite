@@ -1,1 +1,2 @@
 # mysite
+src='index.php'
